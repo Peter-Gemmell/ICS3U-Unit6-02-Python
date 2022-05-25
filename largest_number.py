@@ -18,7 +18,6 @@ def find_largest(array=[]):
 
 
 def main():
-    # I calculate circumference
 
     # process
     list_numbers = []
